@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017 The LineageOS Project 
+-->
+
+<resources>
+
+    <!-- Flag indicating if the tty is enabled -->
+    <bool name="tty_enabled">true</bool>
+
+</resources>
