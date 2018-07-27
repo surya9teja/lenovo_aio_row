@@ -1,0 +1,2 @@
+# lenovo_aio_row
+device tree of aio_row= lenovo a7000
